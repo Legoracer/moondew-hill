@@ -1,0 +1,38 @@
+{
+    "activeFile": "Assets/map.tmx",
+    "expandedProjectPaths": [
+        ".",
+        "Assets",
+        "Assets/Tilesets"
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Assets/Tilesets/Grass.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "Assets/map.tmx": {
+            "scale": 4,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 484.5,
+                "y": 118.5
+            }
+        },
+        "Assets/map.tmx#Grass": {
+            "scaleInDock": 1
+        },
+        "Assets/map.tmx#Path": {
+            "scaleInDock": 1
+        },
+        "Assets/map.tmx#TallGrass": {
+            "scaleInDock": 1
+        }
+    },
+    "openFiles": [
+        "Assets/map.tmx"
+    ]
+}

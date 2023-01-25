@@ -1,0 +1,4 @@
+print
+print(Players)
+print(_G)
+print(_G.love)
